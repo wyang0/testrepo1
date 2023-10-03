@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = /pscratch/sd/w/wyang/bugs/dvctest/dvcstore
